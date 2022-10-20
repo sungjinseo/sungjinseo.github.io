@@ -1,0 +1,11 @@
+- layout: left
+  name: 개인 블로그
+  link: https://sungjinseo.github.io/
+  quote: >
+    개인 기술 블로그
+  description: | # this will include new lines to allow paragraphs
+    * 개인역량 작성
+
+
+
+

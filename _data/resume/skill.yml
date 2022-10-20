@@ -1,0 +1,27 @@
+- layout: left
+  name: Backend
+  description: | # this will include new lines to allow paragraphs
+    * Java, NodeJS
+    * Spring Boot, Spring MVC, Spring Batch, Spring Security
+    * Mybatis
+    * Junit4/5
+    * Gradle, Maven
+    * IntelliJ, Visual Studio Code
+- layout: left
+  name: Frontend
+  description: | # this will include new lines to allow paragraphs
+    * ES6
+    * Npm
+    * HTML
+- layout: left
+  name: MachineLearning
+  description: | # this will include new lines to allow paragraphs
+    * Python
+    * Docker
+    * NLP, SVM, Serving
+    * JupyterLab
+
+
+
+
+

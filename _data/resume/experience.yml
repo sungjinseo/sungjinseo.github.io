@@ -1,0 +1,19 @@
+- layout: left
+  company: 프리랜서
+  job_title: 웹 개발자
+  dates: 2016.07 ~ 현재
+  quote: >
+    오너십을 갖고 일함
+  description: | # this will include new lines to allow paragraphs
+    * 다양한 경험
+
+
+- layout: left
+  company: 웹케시
+  job_title: 웹 개발자
+  dates: 2012.01 ~ 2016.03
+  quote: >
+   중견 자금관리전문 SI 기업
+  description: | # this will include new lines to allow paragraphs
+     * 전자정부 프레임워크, MyBatis, Oracle 환경에서의 개발 경험
+     * 중기청,(SMTECH) 산업기술평가관리원(RCMS) 시스템 기능개선 및 유지보수

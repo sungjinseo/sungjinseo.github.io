@@ -1,0 +1,37 @@
+---
+layout: page
+# The Archives of posts.
+---
+
+{% assign df_strftime_m = site.data.locales[site.lang].df.archives.strftime | default: '/ %m' %}
+{% assign df_dayjs_m = site.data.locales[site.lang].df.archives.dayjs | default: '/ MM' %}
+
+<div id="resume" class="pl-xl-3">
+
+  <div class="wrapper">
+    {%- if site.data.resume.education.size > 0 -%}
+    {%- include education.html -%}
+    {%- endif -%}
+
+    {%- if site.data.resume.experience.size > 0 -%}
+    {%- include experience.html -%}
+    {%- endif -%}
+
+    {%- if site.data.resume.projects.size > 0 -%}
+    {%- include projects.html -%}
+    {%- endif -%}
+
+    {%- if site.data.resume.skill.size > 0 -%}
+    {%- include skill.html -%}
+    {%- endif -%}
+  </div>
+
+  <script src="https://utteranc.es/client.js"
+          repo="sungjinseo/sungjinseo.github.io"
+          issue-term="pathname"
+          theme="github-light"
+          crossorigin="anonymous"
+          async>
+  </script>
+
+</div>
