@@ -1,15 +1,57 @@
 - layout: top-middle
-  name: e-나라도움 구축사업
-  link: https://rcms.go.kr/
+  name: 차세대지능형 교육연수플랫폼 구축 - 중교원
+  link:
   quote: >
-    2012.01.01 ~ 2016.03.31
+    2021.12 ~ 2022.04
   description: | # this will include new lines to allow paragraphs
-    * 연구비 오유용을 할 수 있는 대표케이스를 선정하여 각 케이스별 산출공식을 통해 항목별 점수화
+    * 에듀파인 개선
+    * 머신러닝 환경구축 및 서빙
+    * k8s&docker를 이용한 머신러닝 모델링 및 서빙 처리
+    * ASIS에 등록되어 있던 교육자료를 기반으로 분류모델 개발
 
 - layout: top-middle
-  name: RCMS 유지운영
+  name: 금융상품분석시스템 고도화 - 금감원
+  link:
+  quote: >
+    2021.08 ~ 2021.12
+  description: | # this will include new lines to allow paragraphs
+    * 금융상품에 대한 수집쿼리 데이터 변경
+
+- layout: top-middle
+  name: 차세대 디브레인 구축사업 - 기재부
+  link:
+  quote: >
+    2020.04 ~ 2021.08
+  description: | # this will include new lines to allow paragraphs
+    * 에듀파인 개선
+    * 예산집행팀 : 보조금/출연금 파트
+
+- layout: top-middle
+  name: 차세대 에듀파인 구축사업 - 교육부
+  link:
+  quote: >
+    2018.07 ~ 2020.03
+  description: | # this will include new lines to allow paragraphs
+    * 학교 및 어린이집에서 일련의 행정업무를 처리하기 위한 교육
+    * 전자금융팀 : 금융서비스/모니터링
+    * 17개 시도 및 13개 은행간 전문처리 모듈 개발 - 일 2~3만건
+    * 시재마감을 위한 모니터링
+
+- layout: top-middle
+  name: e-나라도움 구축사업 - 기재부
+  link: https://www.gosims.go.kr/
+  quote: >
+    2016.07 ~ 2018.07
+  description: | # this will include new lines to allow paragraphs
+    * 보조금을 투명하게 관리하기 위한 사이트
+    * 집행팀 : 정산/반납
+    * roll up 방식의 정산반납 ㅇㅌㅇ
+
+- layout: top-middle
+  name: RCMS 유지운영 - 산자부
   link: https://rcms.go.kr/
   quote: >
     2012.01.01 ~ 2016.03.31
   description: | # this will include new lines to allow paragraphs
+    * 기관 및 개인의 연구비 사용을 투명하게 관리하기 위한 사이트
     * 연구비 오유용을 할 수 있는 대표케이스를 선정하여 각 케이스별 산출공식을 통해 항목별 점수화
