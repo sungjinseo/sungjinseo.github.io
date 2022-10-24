@@ -5,7 +5,7 @@
   quote: >
     자금관리시스템에서 주로 이체관련된 업무를 맡음. 앞서 RCMS에서 얻은 경험으로 금융사고없는 운영을 중요시 생각.
   description: | # this will include new lines to allow paragraphs
-    * 공공기관 자금관리시스템 사업 참여 다수
+    * 공공기관 자금관리시스템 사업 참여 다
     * binary 데이터 검증과 관련된 모듈 개발 우수
     * 주로 협의 및 개발을 담당하였지만 공공기관 특성상 신기술을 접하진 않음
     * 중교원 프로젝트 이후 개인개발을 매우 중요시 생각
@@ -16,6 +16,7 @@
   dates: 2012.01 ~ 2016.03
   quote: >
    중견 자금관리전문 SI 기업
+   이제는 SI사업을 하지 않는다고 합니다만...
   description: | # this will include new lines to allow paragraphs
      * 전자정부 프레임워크, MyBatis, Oracle 환경에서의 개발 경험
      * 중기청,(SMTECH) 산업기술평가관리원(RCMS) 시스템 기능개선 및 유지보수
