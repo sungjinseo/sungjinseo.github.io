@@ -4,7 +4,8 @@
   quote: >
     2021.04 ~ 2022.10
   description: | # this will include new lines to allow paragraphs
-    * 현대해상 UI 개선사업 -> websquare 전환
+    * 현대해상 UI 개선사업 -> websquare 전환 구득파트
+    * 구득관련 검색속도 쿼리 개선
 
 - layout: top-middle
   name: 차세대지능형 교육연수플랫폼 구축 - 중교원
@@ -22,6 +23,7 @@
   quote: >
     2021.08 ~ 2021.12
   description: | # this will include new lines to allow paragraphs
+    * 카드사 및 금융사로부터 수집되는 금융상품 내용 변경 프로젝트
     * 금융상품에 대한 수집쿼리 데이터 변경
 
 - layout: top-middle
