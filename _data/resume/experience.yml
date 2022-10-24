@@ -5,12 +5,11 @@
   quote: >
     오너십을 갖고 일함
   description: | # this will include new lines to allow paragraphs
-    * 다양한 경험
-
+    * 다수의 공공기관 자금관리 프로젝트에 참여
 
 - layout: left
   company: 웹케시
-  job_title: 웹 개발자
+  job_title: 웹 개발자, 서버운영
   dates: 2012.01 ~ 2016.03
   quote: >
    중견 자금관리전문 SI 기업

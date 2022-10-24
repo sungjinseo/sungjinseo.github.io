@@ -1,11 +1,16 @@
 - layout: left
+  name: Certifications
+  link: https://sungjinseo.github.io/
+  quote: >
+    자격증 내역
+  description: | # this will include new lines to allow paragraphs
+    * 빅데이터분석기사
+    * 정보처리기사
+
+- layout: left
   name: 개인 블로그
   link: https://sungjinseo.github.io/
   quote: >
     개인 기술 블로그
   description: | # this will include new lines to allow paragraphs
     * 개인역량 작성
-
-
-
-
