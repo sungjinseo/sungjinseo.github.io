@@ -19,3 +19,4 @@
   description: | # this will include new lines to allow paragraphs
      * 전자정부 프레임워크, MyBatis, Oracle 환경에서의 개발 경험
      * 중기청,(SMTECH) 산업기술평가관리원(RCMS) 시스템 기능개선 및 유지보수
+     * 온프레미스 형태로 서버가 운영되어, 변경사항을 ROLL UP 방식으로 직접 적용
