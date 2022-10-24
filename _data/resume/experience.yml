@@ -3,9 +3,12 @@
   job_title: 웹 개발자
   dates: 2016.07 ~ 현재
   quote: >
-    오너십을 갖고 일함
+    자금관리시스템에서 주로 이체관련된 업무를 맡음. 앞서 RCMS에서 얻은 경험으로 금융사고없는 운영을 중요시 생각.
   description: | # this will include new lines to allow paragraphs
-    * 다수의 공공기관 자금관리 프로젝트에 참여
+    * 공공기관 자금관리시스템 사업 참여 다수
+    * binary 데이터 검증과 관련된 모듈 개발 우수
+    * 주로 협의 및 개발을 담당하였지만 공공기관 특성상 신기술을 접하진 않음
+    * 중교원 프로젝트 이후 개인개발을 매우 중요시 생각
 
 - layout: left
   company: 웹케시
