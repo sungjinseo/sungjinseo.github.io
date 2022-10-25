@@ -1,7 +1,7 @@
 - layout: left
   name: 금오공과대학교
   dates: 2004.03 ~ 2012.02
-  link: https://kumoh.ac.kr/
+  link:
   quote: >
     컴퓨터소프트웨어 전공
   description: | # this will include new lines to allow paragraphs
