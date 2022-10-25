@@ -21,6 +21,10 @@ layout: page
     {%- include projects.html -%}
     {%- endif -%}
 
+    {%- if site.data.resume.selfmanage.size > 0 -%}
+    {%- include selfmanage.html -%}
+    {%- endif -%}
+
     {%- if site.data.resume.skill.size > 0 -%}
     {%- include skill.html -%}
     {%- endif -%}

@@ -1,0 +1,6 @@
+<div class="container projects-container">
+  <h3>{{ site.projects_title | default: "Self-Manage" }}</h3>
+  {% for project in site.data.resume.selfmanage %}
+    {% include {{ project.layout | default: 'left' | append: ".html" | prepend: "v1/" }} item=project %}
+  {% endfor %}
+</div>

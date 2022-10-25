@@ -1,16 +1,16 @@
 - layout: top-middle
-  name: 현대해상 UI 개선사업
-  link:
+  name: 현대해상 UI 개선사업 - 현대해상
+  link: https://www.hi.co.kr/
   quote: >
-    2021.04 ~ 2022.10
+    2022.05 ~ 2022.10
   description: | # this will include new lines to allow paragraphs
-    * 현대해상 UI 개선사업 -> websquare 전환 구득파트
-    * 구득관련 검색속도 쿼리 개선
-    * 구득관련 검색속도 쿼리 개선
+    * 현대해상 UI 개선사업 -> websquare 전환 사업
+    * 구득검색 쿼리개선요건으로 업무분석후 쿼리 개선
+    * 안정화기간동안 개발이외 업무요청건 처리로 보험처리업무 향상
 
 - layout: top-middle
   name: 차세대지능형 교육연수플랫폼 구축 - 중교원
-  link:
+  link: https://www.neti.go.kr/
   quote: >
     2021.12 ~ 2022.04
   description: | # this will include new lines to allow paragraphs

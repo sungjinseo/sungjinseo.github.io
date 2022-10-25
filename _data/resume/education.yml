@@ -1,11 +1,10 @@
 - layout: left
-  name: 금오공대
+  name: 금오공과대학교
   dates: 2004.03 ~ 2012.02
-  link:
+  link: https://kumoh.ac.kr/
   quote: >
     컴퓨터소프트웨어 전공
   description: | # this will include new lines to allow paragraphs
     * 제3회 인접대학간 종합설계 경진대회 우수상
     * 적응적 타일링 및 블록 매칭을 통한 포토 모자이크 알고리즘(https://koreascience.kr/article/JAKO201215349525361.pdf)
     * 특징값 기반 블록 매칭을 이용한 자동 포토 모자이크 알고리즘(https://koreascience.kr/article/CFKO201121868479012.pdf)
-

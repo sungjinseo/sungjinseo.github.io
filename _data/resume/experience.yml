@@ -3,21 +3,21 @@
   job_title: 웹 개발자
   dates: 2016.07 ~ 현재
   quote: >
-    자금관리시스템에서 주로 이체관련된 업무를 맡음. 앞서 RCMS에서 얻은 경험으로 금융사고없는 운영을 중요시 생각.
+    공공기관 자금관리시스템 프로젝트를 다수 참여하여 공공 재무에 업무능력은 특화.
   description: | # this will include new lines to allow paragraphs
-    * 공공기관 자금관리시스템 사업 참여 다
-    * binary 데이터 검증과 관련된 모듈 개발 우수
-    * 주로 협의 및 개발을 담당하였지만 공공기관 특성상 신기술을 접하진 않음
-    * 중교원 프로젝트 이후 개인개발을 매우 중요시 생각
+    * 전문처리모듈 및 시재마감 처리 등 계좌의 자금관리에 특화된 업무개발 능력
+    * 공공프로젝트는 분석/설계/개발 전체 업무처리를 맡으며, 신기술 개발보다는 업무협의가 주업무
+    * 클라우드 프로젝트 참여이후 MSA 및 신기술에 많은 관심
+    * 공공사업 : egov, miplatform, nexacro, websquare, mybatis, oracle, tibero 등 사용
+    * 클라우드사업 : springboot, python, jupyter notebook, k8s, docker 등 사용
 
 - layout: left
   company: 웹케시
-  job_title: 웹 개발자, 서버운영
+  job_title: 웹개발, 서버운영
   dates: 2012.01 ~ 2016.03
   quote: >
-   중견 자금관리전문 SI 기업
-   이제는 SI사업을 하지 않는다고 합니다만...
+   중견 자금관리전문 SI 기업. 이제는 SI사업을 하지 않는다고 합니다만...
   description: | # this will include new lines to allow paragraphs
-     * 전자정부 프레임워크, MyBatis, Oracle 환경에서의 개발 경험
-     * 중기청,(SMTECH) 산업기술평가관리원(RCMS) 시스템 기능개선 및 유지보수
-     * 온프레미스 형태로 서버가 운영되어, 변경사항을 ROLL UP 방식으로 직접 적용
+     * egovFramework, iBatis, Oracle 환경에서의 개발 경험
+     * 중기청(SMTECH), 산기평(RCMS) 시스템 기능개선 및 유지보수
+     * 온프레미스 형태로 서버가 운영되어, 변경사항을 ROLL UP 방식으로 배포관리
