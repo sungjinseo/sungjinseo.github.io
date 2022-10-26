@@ -2,8 +2,8 @@
 layout: post
 title: "간만에 서버에 나의 소스를 배포하다..."
 author: "sungjin seo"
-date: 2021-10-25 16:42:00 +0900
-categories: [Web, JobLife]
+date: 2021-10-25 09:42:00 +0900
+categories: [Life]
 tags: [server, publish]
 comments: true
 pin: true

@@ -1,6 +1,6 @@
 - layout: left
   name: Certifications
-  link: https://sungjinseo.github.io/
+  link: https://url.kr/3bkgsp
   quote: >
     자격증 내역
   description: | # this will include new lines to allow paragraphs
@@ -9,7 +9,7 @@
 
 - layout: left
   name: 개인 블로그
-  link: https://sungjinseo.github.io/
+  link: https://url.kr/3bkgsp
   quote: >
     개인 기술 블로그
   description: | # this will include new lines to allow paragraphs
