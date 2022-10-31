@@ -1,0 +1,33 @@
+- layout: left
+  name: 대한극장
+  link: https://www.daehancinema.co.kr/
+  quote: >
+    영화예매사이트
+  description: | # this will include new lines to allow paragraphs
+    * frontend는 vue로 구성되어 vue공부를 병행하면서 진행
+    * 포인트 및 쿠폰관리기능 추가 - 설계구현
+    * 포인트 및 쿠폰 사용내역에 대한 정산기능 고도화
+    * 배치를 통한 VIP, 생일 쿠폰 관리기능 추가
+
+- layout: left
+  name: 공동주택관리시스템 크롤링
+  link: https://url.kr/cfjk9g
+  quote: >
+    공동주택관리 공공데이터 크롤링 기능 구현
+  description: | # this will include new lines to allow paragraphs
+    * jupyter notebook을 이용한 구현 - 일반인도 소스를 이용하기 쉽게 하기위해
+    * 데이터별 크롤링시 json 형태로 파일을 저장하여 불필요한 request 줄임
+    * 캡챠 이미지를 크롤링 하여 ML을 통하여 학습.
+    * 캡챠 발생시 avoidCapcha를 실행하여 캡챠를 해결
+
+- layout: left
+  name: 자동 야근 등록기
+  link: https://url.kr/roiknd
+  quote: >
+    정직시절 회사인트라넷에 자동으로 야근을 등록하던 모듈
+  description: | # this will include new lines to allow paragraphs
+    * 10여년전 IT회사임에도 불구하고 야근 시간별 인트라넷에 로그인을 해야했던 그 회사...
+    * 야근을 하고도 저녁 8시 이후로 로그인을 안하면 야근이 인정되지 않던 그 회사...
+    * 로그인 기록이 8시 이후라도 어차피 야근을 등록해야 하기에 8시에 자동으로 로그인 하는 모듈을 만듬
+    * 출근 8시 30분 ~ 9시 사이 자동로그인, 야근 8시 이후 자동로그인 한번
+    * 최종버전이 출퇴근 30분전후 랜덤로그인에 야근도 자동등록이었는데 최종소스는 없는듯...

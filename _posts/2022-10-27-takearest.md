@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "간마의 월차..."
+title: "현재 플젝에서 마지막 월차..."
 author: "sungjin seo"
 date: 2021-10-26 10:26:00 +0900
 categories: [Life]
