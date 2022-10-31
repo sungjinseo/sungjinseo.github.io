@@ -1,5 +1,5 @@
 <div class="container education-container">
-  <h3>{{ site.education_title | default: "Education" }}</h3>
+  <h3 style="font-size: 3rem;font-weight: 300;text-align: center;border-bottom: dashed 2px;padding-bottom: 10px;margin-bottom: 40px;">{{ site.education_title | default: "Education" }}</h3>
   {% for education in site.data.resume.education %}
     {% include {{ education.layout | default: 'left' | append: ".html" | prepend: "v1/" }} item=education %}
   {% endfor %}

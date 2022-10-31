@@ -1,5 +1,5 @@
 <div class="container experience-container">
-  <h3>{{ site.experience_title | default: "Experience" }}</h3>
+  <h3 style="font-size: 3rem;font-weight: 300;text-align: center;border-bottom: dashed 2px;padding-bottom: 10px;margin-bottom: 40px;">{{ site.experience_title | default: "Experience" }}</h3>
   {% for experience in site.data.resume.experience %}
     {% include {{ experience.layout | default: 'left' | append: ".html" | prepend: "v1/" }} item=experience %}
   {% endfor %}

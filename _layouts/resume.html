@@ -9,6 +9,9 @@ layout: page
 <div id="resume" class="pl-xl-3">
 
   <div class="wrapper">
+
+    {%- include about.html -%}
+
     {%- if site.data.resume.education.size > 0 -%}
     {%- include education.html -%}
     {%- endif -%}

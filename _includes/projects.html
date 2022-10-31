@@ -1,5 +1,5 @@
 <div class="container projects-container">
-  <h3>{{ site.projects_title | default: "Projects" }}</h3>
+  <h3 style="font-size: 3rem;font-weight: 300;text-align: center;border-bottom: dashed 2px;padding-bottom: 10px;margin-bottom: 40px;">{{ site.projects_title | default: "Projects" }}</h3>
   {% for project in site.data.resume.projects %}
     {% include {{ project.layout | default: 'left' | append: ".html" | prepend: "v1/" }} item=project %}
   {% endfor %}
