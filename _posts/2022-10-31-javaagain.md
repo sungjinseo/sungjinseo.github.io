@@ -2,8 +2,8 @@
 layout: post
 title: "자바 백엔드 기술 면접 대비하기 - 1편"
 author: "sungjin seo"
-date: 2021-10-31 09:52:00 +0900
-categories: [Job]
+date: 2022-10-31 09:52:00 +0900
+categories: [Job, Study]
 tags: [java, question]
 comments: true
 pin: true
