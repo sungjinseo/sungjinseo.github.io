@@ -6,7 +6,7 @@ date: 2022-10-25 09:42:00 +0900
 categories: [Life, Sidejob]
 tags: [server, publish]
 comments: true
-pin: true
+pin: false
 ---
 
 # 블로그의 첫글이 나의 배포로그라니...

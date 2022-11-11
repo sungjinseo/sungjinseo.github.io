@@ -6,7 +6,7 @@ date: 2022-10-31 09:52:00 +0900
 categories: [Job, Study]
 tags: [java, question]
 comments: true
-pin: true
+pin: false
 ---
 
 ## 자바의 모든 클래스는 Object 클래스를 상속받습니다. 그리고 Object클래스에는 equals() 와 hashCode() 라는 메소드가 선언되어 있습니다. 이 메소드들은 각각 어떤 역할일까요? 이 둘의 차이점은 무엇일까요?

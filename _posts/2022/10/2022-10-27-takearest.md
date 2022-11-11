@@ -6,7 +6,7 @@ date: 2022-10-26 10:26:00 +0900
 categories: [Life, Rest]
 tags: [sushi, hanging out, whiskey]
 comments: true
-pin: true
+pin: false
 ---
 
 # 오랫만의 와이프랑 외출
