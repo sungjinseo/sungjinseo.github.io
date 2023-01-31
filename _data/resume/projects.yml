@@ -19,7 +19,7 @@
   description: | # this will include new lines to allow paragraphs
     * 현대해상 UI 개선사업 -> websquare 전환 사업
     * 구득검색 쿼리개선요건으로 업무분석후 쿼리 개선
-    * ASIS에 등록되어 있던 교육자료를 기반으로 카테고리 분류모델 개발
+    * 평균소요시간 1분에서 30초로 개선(히스토리테이블 조인의 문제개선)
 
 - layout: top-middle
   name: 차세대지능형 교육연수플랫폼 구축 - 중교원
