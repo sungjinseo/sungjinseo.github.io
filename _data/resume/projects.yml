@@ -1,14 +1,21 @@
 - layout: top-middle
-  name: Next Project - Not yet
+  name: Next Project
+  link:
+  quote: >
+    2023.03 ~
+  description: | # this will include new lines to allow paragraphs
+    * look for a job like data engineer
 
 - layout: top-middle
   name: 꿀비서 챗봇 사업 - 국민은행
   link:
   quote: >
-    2022.11 ~
+    2022.11 ~ 2023.03
   description: | # this will include new lines to allow paragraphs
     * 꿀비서 어플리케이션내의 챗봇 구축사업
     * 챗봇 <-> 코어뱅킹간 연계 업무담당(조회, 송금)
+    * 시나리오에 따른 모델 사용범위 이외 NLP를 룰베이스로 처리
+    * Jira를 이용한 티켓베이스 이슈관리
     * TDD 방식으로 개발 진행
 
 - layout: top-middle

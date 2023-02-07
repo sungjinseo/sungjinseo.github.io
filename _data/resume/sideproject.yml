@@ -1,4 +1,15 @@
 - layout: left
+  name: 육아정보수집기
+  link:
+  quote: >
+    육아정보를 수집하기 위한 스크래핑 구현
+  description: | # this will include new lines to allow paragraphs
+    * 기존의 크롤링 모듈을 재사용함
+    * https://icare.seoul.go.kr/ 사이트에서 영유아 관련만 스크래핑(공동육아방, 공동육아나눔터)
+    * https://yeyak.seoul.go.kr/web/main.do 영유아 관련 예약 프로그램 스크래핑 예정
+    * 스크래핑 데이터를 기반으로 내 위치 중심의 유아보육정보를 노출해주는 사이트를 개설예정
+
+- layout: left
   name: 대한극장
   link: https://url.kr/qom6i2
   quote: >
