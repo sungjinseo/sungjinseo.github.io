@@ -5,10 +5,11 @@
     2023.03 ~
   description: | # this will include new lines to allow paragraphs
     * look for a job like data engineer
+    * interested in MLOps
 
 - layout: top-middle
   name: 꿀비서 챗봇 사업 - 국민은행
-  link:
+  link: https://liivnext.kbstar.com/prd-mob/frnt/app-info.html
   quote: >
     2022.11 ~ 2023.03
   description: | # this will include new lines to allow paragraphs
